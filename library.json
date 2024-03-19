@@ -1,8 +1,8 @@
 {
-"name": "gb_SENSORNAME",
+"name": "gb_DFR0576_I2CMultiplexer",
 "frameworks": "Arduino",
 "keywords": "keywords",
-"description": "Use the sensor XXXXX in the GrowBot system.",
+"description": "Use the sensor gb_DFR0576_I2CMultiplexer in the GrowBot system.",
 "authors":
 [
     {
